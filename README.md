@@ -8,8 +8,6 @@ https://tadaken3.github.io/portfolio/
 
 ## About
 
-AKINDO（屋号）として、データ基盤コンサルティングを中心に活動しています。
-
 - データ基盤の設計・構築・移行（Snowflake / dbt / Redshift）
 - KPI設計・BIダッシュボード構築（Exploratory / Looker / Tableau / Streamlit）
 - HR Analytics（People Analytics / 採用戦略 / 組織開発）
